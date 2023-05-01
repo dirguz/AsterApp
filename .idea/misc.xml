@@ -3,9 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/PC-Usuario/Documents/Proyecto Android/AsterApp/app/src/main/res/layout/activity_carga_db.xml" value="0.17916666666666667" />
         <entry key="..\:/Users/PC-Usuario/Documents/Proyecto Android/AsterApp/app/src/main/res/layout/activity_detalles.xml" value="0.22" />
         <entry key="..\:/Users/PC-Usuario/Documents/Proyecto Android/AsterApp/app/src/main/res/layout/activity_main.xml" value="0.22" />
-        <entry key="..\:/Users/PC-Usuario/Documents/Proyecto Android/AsterApp/app/src/main/res/layout/activity_registro.xml" value="0.33" />
+        <entry key="..\:/Users/PC-Usuario/Documents/Proyecto Android/AsterApp/app/src/main/res/layout/activity_main2.xml" value="0.22" />
+        <entry key="..\:/Users/PC-Usuario/Documents/Proyecto Android/AsterApp/app/src/main/res/layout/activity_post_retrofit.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/PC-Usuario/Documents/Proyecto Android/AsterApp/app/src/main/res/layout/activity_registro.xml" value="0.25" />
       </map>
     </option>
   </component>
